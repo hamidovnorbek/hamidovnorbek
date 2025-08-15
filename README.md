@@ -1,12 +1,14 @@
 <!-- Banner -->
 <h1 align="center">👋 Hey there, I'm Norbek Homidov</h1>
 <h3 align="center">💻 Backend Developer | 🚀 Laravel Enthusiast | 📍 Uzbekistan</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamidovnorbek&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/hamidovnorbek?tab=followers"><img src="https://img.shields.io/github/followers/hamidovnorbek?label=Followers&style=flat" alt="followers" /></a>
-  <a href="mailto:norbek@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue" alt="email" /></a>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer+from+Uzbekistan;Laravel+%26+PHP+Enthusiast;Learning+Frontend+Technologies;Building+Scalable+Web+Applications)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=hamidovnorbek&label=Profile%20views&color=2E9EF7&style=for-the-badge)](https://github.com/hamidovnorbek)
+[![GitHub followers](https://img.shields.io/github/followers/hamidovnorbek?logo=github&style=for-the-badge&color=2E9EF7)](https://github.com/hamidovnorbek)
+
+</div>
 
 ---
 
