@@ -13,9 +13,9 @@
 I focus on **Laravel, PHP, and modern DevOps practices** to deliver high-quality backend solutions that are fast, reliable, and secure.
 
 **Languages & Frameworks**
-- **Backend**: Laravel, PHP, Livewire, Filament
-- **Databases**: MySQL, SQLite, Redis
-- **Frontend Integration**: Tailwind CSS, Vue.js
+- **Backend**: PHP, LARAVEL, Python, C++, Golang, 
+- **Databases**: MySQL, SQLite, Redis(basic)
+- **Frontend Integration**: Vuejs, InertiaJs, NuxtJs, JavaScript, Tailwind CSS
 - **DevOps & Cloud**: Docker, AWS, Nginx, Linux, Git
 
 ### 🎯 Current Focus
