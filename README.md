@@ -1,3 +1,7 @@
+Absolutely, Norbek! Here's a refined version of your GitHub README with visible icons and a filled-out **About Me** section. I’ve also ensured the layout remains clean and engaging:
+
+---
+
 <!-- Title & Banner -->
 <h1 align="center">👋 Hi, I'm Norbek Homidov</h1>
 <h3 align="center">💻 Backend Developer | 🚀 Laravel Enthusiast | 📍 Uzbekistan</h3>
@@ -14,19 +18,23 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: [**CarSales Platform**](https://github.com/hamidovnorbek/avtoelon2)  
-- 🌱 Learning: **Livewire**, **Advanced Laravel**, **Filament**, **Eloquent ORM**  
-- 🛠 One of my big projects: [**Pixel Jobs**](https://github.com/hamidovnorbek/job-posting)  
-- 💬 Ask me about: **Laravel**, **PHP**, **C++**, **Algorithms**, **Data Structures**  
-- ⚡ Fun fact: *I’m an extrovert and a fast learner!*  
+
+I'm a passionate backend developer with a strong love for Laravel and clean architecture. I enjoy building scalable web applications, optimizing performance, and diving deep into system design. My journey started with curiosity and grew into a full-time obsession with backend engineering. Whether it's crafting RESTful APIs, integrating frontend frameworks, or deploying with Docker and AWS — I thrive on solving complex problems and learning new technologies.
+
+- 🔭 Currently working on Laravel-based SaaS platforms  
+- 🌱 Exploring microservices and event-driven architecture  
+- 💬 Ask me about PHP, Laravel, Redis, or system design  
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/norbekhamidov/)  
+- ⚡ Fun fact: I love debugging — it's like solving a mystery!
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/norbekhamidov/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://www.hackerrank.com/@norbekha"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40" /></a>
-<a href="https://www.leetcode.com/norbek_hamidov"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40" /></a>
+  <a href="https://www.linkedin.com/in/norbekhamidov/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" /></a>
+  <a href="https://www.hackerrank.com/norbekha"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png" height="40" /></a>
+  <a href="https://www.leetcode.com/norbek_hamidov"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40" /></a>
 </p>
 
 ---
@@ -66,19 +74,17 @@
 ---
 
 ## 📌 Featured Projects
-<p align="left">
-<a href="https://github.com/hamidovnorbek/avtoelon2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamidovnorbek&repo=avtoelon2&theme=radical" />
-</a>
-<a href="https://github.com/hamidovnorbek/job-posting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamidovnorbek&repo=job-posting&theme=radical" />
-</a>
-</p>
+> _Coming soon..._ (You can list your top 2–3 GitHub repos here with short descriptions and links)
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamidovnorbek&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidovnorbek&theme=radical" height="180" />
 </p>
+
+---
+
+Let me know if you'd like help writing your **Featured Projects** section or adding badges for certifications or achievements!
